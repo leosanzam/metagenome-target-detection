@@ -1,0 +1,15 @@
+name: meta-detect
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - biopython
+  - bowtie2
+  - fastp
+  - insilicoseq
+  - kraken2
+  - ncbi-datasets-cli
+  - pandas
+  - python=3.10
+  - samtools
+prefix: /rhome/lsanc128/bigdata/.conda/envs/meta-detect

@@ -1,0 +1,11 @@
+
+
+# Downloaded reference genomes
+/references/crithidia/
+/references/*.zip
+
+# Generated sequencing reads
+/simulated/
+
+# Kraken2 database files
+/kraken_db/
