@@ -1,0 +1,5 @@
+role	scientific_name	database	accession	url	status
+real_background	Bombus species bee gut	NCBI SRA	SRR19044773	https://www.ncbi.nlm.nih.gov/sra/SRR19044773	identified_not_downloaded
+real_background_project	Bombus species bee gut	NCBI BioProject	PRJNA833889	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA833889	identified_not_downloaded
+target_reference	Crithidia bombi	NCBI Assembly	GCA_900240985.1	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_900240985.1/	identified_not_downloaded
+near_neighbor_reference	Crithidia expoeki	NCBI Assembly	GCA_900240875.1	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_900240875.1/	identified_not_downloaded
